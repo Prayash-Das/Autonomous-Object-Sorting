@@ -1,6 +1,6 @@
 # Autonomous Object Sorting Using a Mobile Robot
 
-![Project Overview](./assets/project_overview.png)
+![Project Overview](./project_overview.png)
 
 This repository contains the implementation and report for the project **"Autonomous Object Sorting Using a Mobile Robot"**, completed as part of the course **ME 598-A: Introduction to Robotics** (Fall 2024). The project showcases the development of an autonomous mobile robot capable of detecting and sorting objects based on color in a constrained environment, while avoiding collisions and adhering to predefined operational guidelines.
 
