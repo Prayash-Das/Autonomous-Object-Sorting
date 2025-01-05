@@ -1,6 +1,8 @@
 # Autonomous Object Sorting Using a Mobile Robot
 
-This repository contains the implementation and report for the project **"Autonomous Object Sorting Using a Mobile Robot"**.The project showcases the development of an autonomous mobile robot capable of detecting and sorting objects based on color in a constrained environment, while avoiding collisions and adhering to predefined operational guidelines.
+![Project Overview](./assets/project_overview.png)
+
+This repository contains the implementation and report for the project **"Autonomous Object Sorting Using a Mobile Robot"**, completed as part of the course **ME 598-A: Introduction to Robotics** (Fall 2024). The project showcases the development of an autonomous mobile robot capable of detecting and sorting objects based on color in a constrained environment, while avoiding collisions and adhering to predefined operational guidelines.
 
 ---
 
@@ -41,8 +43,8 @@ Develop an autonomous system for sorting objects into their designated zones usi
 ### Installation
 1. Clone this repository:
     ```bash
-    git clone https://github.com/Prayash-Das/Autonomous-Object-Sorting.git
-    cd Autonomous-Object-Sorting
+    git clone https://github.com/<your-username>/autonomous-object-sorting.git
+    cd autonomous-object-sorting
     ```
 2. Open the Simulink file `ME598FinalProject.slx` in MATLAB.
 
@@ -63,6 +65,7 @@ Develop an autonomous system for sorting objects into their designated zones usi
     ```matlab
     run('trajectory_plot.m')
     ```
+   ![Trajectory Plot](./assets/trajectory_plot.png)
 
 ---
 
@@ -108,5 +111,10 @@ The robot successfully completed all six trials under varying initial conditions
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
+
+## Acknowledgments
+- Stevens Institute of Technology
+- Professor for ME 598-A: Introduction to Robotics
+- Course materials and MATLAB resources
 
 For more details, please refer to the [project report](./ME598A_GR2_Final_Project_report.pdf).
